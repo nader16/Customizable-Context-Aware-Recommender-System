@@ -1,0 +1,17 @@
+BookAuthor = 'John Grisham' and Location = 'cordova, tennessee, usa'
+BookAuthor = 'John Grisham' and Age between 30 AND 32
+BookAuthor = 'John Grisham' and Age between 32 AND 34
+YearOfPublication between 1990 AND 1993 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1993 AND 1996 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1996 AND 1999 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1999 AND 2002 and Location = 'cordova, tennessee, usa'
+BookAuthor = 'John Grisham' and Location = 'cordova, tennessee, usa' and  Age between 30 AND 32
+BookAuthor = 'John Grisham' and Location = 'cordova, tennessee, usa' and  Age between 32 AND 34
+YearOfPublication between 1990 AND 1993 and Location = 'cordova, tennessee, usa' and  Age between 30 AND 32
+YearOfPublication between 1990 AND 1993 and Location = 'cordova, tennessee, usa' and  Age between 32 AND 34
+YearOfPublication between 1993 AND 1996 and Location = 'cordova, tennessee, usa' and  Age between 30 AND 32
+YearOfPublication between 1993 AND 1996 and Location = 'cordova, tennessee, usa' and  Age between 32 AND 34
+YearOfPublication between 1996 AND 1999 and Location = 'cordova, tennessee, usa' and  Age between 30 AND 32
+YearOfPublication between 1996 AND 1999 and Location = 'cordova, tennessee, usa' and  Age between 32 AND 34
+YearOfPublication between 1999 AND 2002 and Location = 'cordova, tennessee, usa' and  Age between 30 AND 32
+YearOfPublication between 1999 AND 2002 and Location = 'cordova, tennessee, usa' and  Age between 32 AND 34

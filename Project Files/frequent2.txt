@@ -1,0 +1,333 @@
+BookAuthor = 'Amy Tan' and BookTitle = 'The Kitchen God s Wife'
+BookAuthor = 'Amy Tan' and ImageURLL = ' //images.amazon.com/images/P/080410753X.01.LZZZZZZZ.jpg'
+BookAuthor = 'Amy Tan' and ImageURLM = ' //images.amazon.com/images/P/080410753X.01.MZZZZZZZ.jpg'
+BookAuthor = 'Amy Tan' and ImageURLS = ' //images.amazon.com/images/P/080410753X.01.THUMBZZZ.jpg'
+BookAuthor = 'Amy Tan' and Publisher = 'Ivy Books'
+BookAuthor = 'Amy Tan' and YearOfPublication between 1990 AND 1992
+BookAuthor = 'Anne Tyler' and Location = 'raleigh, north carolina, usa'
+BookAuthor = 'Dean R. Koontz' and BookTitle = 'The Eyes of Darkness'
+BookAuthor = 'Dean R. Koontz' and ImageURLL = ' //images.amazon.com/images/P/0425153975.01.LZZZZZZZ.jpg'
+BookAuthor = 'Dean R. Koontz' and ImageURLM = ' //images.amazon.com/images/P/0425153975.01.MZZZZZZZ.jpg'
+BookAuthor = 'Dean R. Koontz' and ImageURLS = ' //images.amazon.com/images/P/0425153975.01.THUMBZZZ.jpg'
+BookAuthor = 'Dean R. Koontz' and Publisher = 'Berkley Publishing Group'
+BookAuthor = 'Dean R. Koontz' and YearOfPublication between 1993 AND 1994
+BookAuthor = 'Dean R. Koontz' and YearOfPublication between 1995 AND 1996
+BookAuthor = 'Dean R. Koontz' and Age between 31 AND 32
+BookAuthor = 'Dean R. Koontz' and Location = 'cordova, tennessee, usa'
+BookAuthor = 'Frank McCourt' and Publisher = 'Scribner'
+BookAuthor = 'Frank McCourt' and YearOfPublication between 1999 AND 2000
+BookAuthor = 'Jack Canfield' and Publisher = 'Health Communications'
+BookAuthor = 'Jack Canfield' and Age between 18 AND 27
+BookAuthor = 'Jack Canfield' and Location = 'las vegas, nevada, usa'
+BookAuthor = 'John Grisham' and BookTitle = 'A Time to Kill'
+BookAuthor = 'John Grisham' and BookTitle = 'The Partner'
+BookAuthor = 'John Grisham' and BookTitle = 'The Pelican Brief'
+BookAuthor = 'John Grisham' and BookTitle = 'The Rainmaker'
+BookAuthor = 'John Grisham' and BookTitle = 'The Runaway Jury'
+BookAuthor = 'John Grisham' and ImageURLL = ' //images.amazon.com/images/P/0440211727.01.LZZZZZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLL = ' //images.amazon.com/images/P/0440214041.01.LZZZZZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLL = ' //images.amazon.com/images/P/0440221471.01.LZZZZZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLL = ' //images.amazon.com/images/P/044022165X.01.LZZZZZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLL = ' //images.amazon.com/images/P/0440224764.01.LZZZZZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLM = ' //images.amazon.com/images/P/0440211727.01.MZZZZZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLM = ' //images.amazon.com/images/P/0440214041.01.MZZZZZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLM = ' //images.amazon.com/images/P/0440221471.01.MZZZZZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLM = ' //images.amazon.com/images/P/044022165X.01.MZZZZZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLM = ' //images.amazon.com/images/P/0440224764.01.MZZZZZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLS = ' //images.amazon.com/images/P/0440211727.01.THUMBZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLS = ' //images.amazon.com/images/P/0440214041.01.THUMBZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLS = ' //images.amazon.com/images/P/0440221471.01.THUMBZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLS = ' //images.amazon.com/images/P/044022165X.01.THUMBZZZ.jpg'
+BookAuthor = 'John Grisham' and ImageURLS = ' //images.amazon.com/images/P/0440224764.01.THUMBZZZ.jpg'
+BookAuthor = 'John Grisham' and Publisher = 'Dell'
+BookAuthor = 'John Grisham' and Publisher = 'Dell Publishing Company'
+BookAuthor = 'John Grisham' and YearOfPublication between 1990 AND 1992
+BookAuthor = 'John Grisham' and YearOfPublication between 1993 AND 1994
+BookAuthor = 'John Grisham' and YearOfPublication between 1995 AND 1996
+BookAuthor = 'John Grisham' and YearOfPublication between 1997 AND 1998
+BookAuthor = 'John Grisham' and Age between 29 AND 29
+BookAuthor = 'John Grisham' and Age between 31 AND 32
+BookAuthor = 'John Grisham' and Location = 'cordova, tennessee, usa'
+BookAuthor = 'John Grisham' and Location = 'lisboa, lisboa, portugal'
+BookAuthor = 'John Grisham' and Location = 'oceanside, california, usa'
+BookAuthor = 'JONATHAN HARR' and BookTitle = 'A Civil Action'
+BookAuthor = 'JONATHAN HARR' and ImageURLL = ' //images.amazon.com/images/P/0679772677.01.LZZZZZZZ.jpg'
+BookAuthor = 'JONATHAN HARR' and ImageURLM = ' //images.amazon.com/images/P/0679772677.01.MZZZZZZZ.jpg'
+BookAuthor = 'JONATHAN HARR' and ImageURLS = ' //images.amazon.com/images/P/0679772677.01.THUMBZZZ.jpg'
+BookAuthor = 'JONATHAN HARR' and Publisher = 'Vintage'
+BookAuthor = 'JONATHAN HARR' and YearOfPublication between 1995 AND 1996
+BookAuthor = 'Mary Higgins Clark' and Publisher = 'Pocket'
+BookAuthor = 'Nicholas Sparks' and BookTitle = 'A Walk to Remember'
+BookAuthor = 'Nicholas Sparks' and BookTitle = 'The Notebook'
+BookAuthor = 'Nicholas Sparks' and ImageURLL = ' //images.amazon.com/images/P/0446605239.01.LZZZZZZZ.jpg'
+BookAuthor = 'Nicholas Sparks' and ImageURLL = ' //images.amazon.com/images/P/0446608955.01.LZZZZZZZ.jpg'
+BookAuthor = 'Nicholas Sparks' and ImageURLM = ' //images.amazon.com/images/P/0446605239.01.MZZZZZZZ.jpg'
+BookAuthor = 'Nicholas Sparks' and ImageURLM = ' //images.amazon.com/images/P/0446608955.01.MZZZZZZZ.jpg'
+BookAuthor = 'Nicholas Sparks' and ImageURLS = ' //images.amazon.com/images/P/0446605239.01.THUMBZZZ.jpg'
+BookAuthor = 'Nicholas Sparks' and ImageURLS = ' //images.amazon.com/images/P/0446608955.01.THUMBZZZ.jpg'
+BookAuthor = 'Nicholas Sparks' and Publisher = 'Warner Books'
+BookAuthor = 'Nicholas Sparks' and YearOfPublication between 1997 AND 1998
+BookAuthor = 'Nicholas Sparks' and YearOfPublication between 1999 AND 2000
+BookAuthor = 'Patricia Cornwell' and BookTitle = 'Postmortem (Kay Scarpetta Mysteries (Paperback))'
+BookAuthor = 'Patricia Cornwell' and ImageURLL = ' //images.amazon.com/images/P/0671023616.01.LZZZZZZZ.jpg'
+BookAuthor = 'Patricia Cornwell' and ImageURLM = ' //images.amazon.com/images/P/0671023616.01.MZZZZZZZ.jpg'
+BookAuthor = 'Patricia Cornwell' and ImageURLS = ' //images.amazon.com/images/P/0671023616.01.THUMBZZZ.jpg'
+BookAuthor = 'Patricia Cornwell' and Publisher = 'Pocket'
+BookAuthor = 'Patricia Cornwell' and YearOfPublication between 1997 AND 1998
+BookAuthor = 'Stephen King' and BookTitle = 'The Green Mile'
+BookAuthor = 'Stephen King' and ImageURLL = ' //images.amazon.com/images/P/0671041789.01.LZZZZZZZ.jpg'
+BookAuthor = 'Stephen King' and ImageURLM = ' //images.amazon.com/images/P/0671041789.01.MZZZZZZZ.jpg'
+BookAuthor = 'Stephen King' and ImageURLS = ' //images.amazon.com/images/P/0671041789.01.THUMBZZZ.jpg'
+BookAuthor = 'Stephen King' and Publisher = 'Pocket'
+BookAuthor = 'Stephen King' and YearOfPublication between 1999 AND 2000
+BookAuthor = 'V.C. Andrews' and Publisher = 'Pocket'
+BookAuthor = 'V.C. Andrews' and YearOfPublication between 1990 AND 1992
+BookAuthor = 'V.C. Andrews' and Age between 31 AND 32
+BookAuthor = 'V.C. Andrews' and Location = 'cordova, tennessee, usa'
+BookTitle = 'A Civil Action' and ImageURLL = ' //images.amazon.com/images/P/0679772677.01.LZZZZZZZ.jpg'
+BookTitle = 'A Civil Action' and ImageURLM = ' //images.amazon.com/images/P/0679772677.01.MZZZZZZZ.jpg'
+BookTitle = 'A Civil Action' and ImageURLS = ' //images.amazon.com/images/P/0679772677.01.THUMBZZZ.jpg'
+BookTitle = 'A Civil Action' and Publisher = 'Vintage'
+BookTitle = 'A Civil Action' and YearOfPublication between 1995 AND 1996
+BookTitle = 'A Time to Kill' and ImageURLL = ' //images.amazon.com/images/P/0440211727.01.LZZZZZZZ.jpg'
+BookTitle = 'A Time to Kill' and ImageURLM = ' //images.amazon.com/images/P/0440211727.01.MZZZZZZZ.jpg'
+BookTitle = 'A Time to Kill' and ImageURLS = ' //images.amazon.com/images/P/0440211727.01.THUMBZZZ.jpg'
+BookTitle = 'A Time to Kill' and Publisher = 'Dell'
+BookTitle = 'A Time to Kill' and YearOfPublication between 1990 AND 1992
+BookTitle = 'A Walk to Remember' and ImageURLL = ' //images.amazon.com/images/P/0446608955.01.LZZZZZZZ.jpg'
+BookTitle = 'A Walk to Remember' and ImageURLM = ' //images.amazon.com/images/P/0446608955.01.MZZZZZZZ.jpg'
+BookTitle = 'A Walk to Remember' and ImageURLS = ' //images.amazon.com/images/P/0446608955.01.THUMBZZZ.jpg'
+BookTitle = 'A Walk to Remember' and Publisher = 'Warner Books'
+BookTitle = 'A Walk to Remember' and YearOfPublication between 1999 AND 2000
+BookTitle = 'Postmortem (Kay Scarpetta Mysteries (Paperback))' and ImageURLL = ' //images.amazon.com/images/P/0671023616.01.LZZZZZZZ.jpg'
+BookTitle = 'Postmortem (Kay Scarpetta Mysteries (Paperback))' and ImageURLM = ' //images.amazon.com/images/P/0671023616.01.MZZZZZZZ.jpg'
+BookTitle = 'Postmortem (Kay Scarpetta Mysteries (Paperback))' and ImageURLS = ' //images.amazon.com/images/P/0671023616.01.THUMBZZZ.jpg'
+BookTitle = 'Postmortem (Kay Scarpetta Mysteries (Paperback))' and Publisher = 'Pocket'
+BookTitle = 'Postmortem (Kay Scarpetta Mysteries (Paperback))' and YearOfPublication between 1997 AND 1998
+BookTitle = 'The Eyes of Darkness' and ImageURLL = ' //images.amazon.com/images/P/0425153975.01.LZZZZZZZ.jpg'
+BookTitle = 'The Eyes of Darkness' and ImageURLM = ' //images.amazon.com/images/P/0425153975.01.MZZZZZZZ.jpg'
+BookTitle = 'The Eyes of Darkness' and ImageURLS = ' //images.amazon.com/images/P/0425153975.01.THUMBZZZ.jpg'
+BookTitle = 'The Eyes of Darkness' and Publisher = 'Berkley Publishing Group'
+BookTitle = 'The Eyes of Darkness' and YearOfPublication between 1995 AND 1996
+BookTitle = 'The Green Mile' and ImageURLL = ' //images.amazon.com/images/P/0671041789.01.LZZZZZZZ.jpg'
+BookTitle = 'The Green Mile' and ImageURLM = ' //images.amazon.com/images/P/0671041789.01.MZZZZZZZ.jpg'
+BookTitle = 'The Green Mile' and ImageURLS = ' //images.amazon.com/images/P/0671041789.01.THUMBZZZ.jpg'
+BookTitle = 'The Green Mile' and Publisher = 'Pocket'
+BookTitle = 'The Green Mile' and YearOfPublication between 1999 AND 2000
+BookTitle = 'The Kitchen God s Wife' and ImageURLL = ' //images.amazon.com/images/P/080410753X.01.LZZZZZZZ.jpg'
+BookTitle = 'The Kitchen God s Wife' and ImageURLM = ' //images.amazon.com/images/P/080410753X.01.MZZZZZZZ.jpg'
+BookTitle = 'The Kitchen God s Wife' and ImageURLS = ' //images.amazon.com/images/P/080410753X.01.THUMBZZZ.jpg'
+BookTitle = 'The Kitchen God s Wife' and Publisher = 'Ivy Books'
+BookTitle = 'The Kitchen God s Wife' and YearOfPublication between 1990 AND 1992
+BookTitle = 'The Notebook' and ImageURLL = ' //images.amazon.com/images/P/0446605239.01.LZZZZZZZ.jpg'
+BookTitle = 'The Notebook' and ImageURLM = ' //images.amazon.com/images/P/0446605239.01.MZZZZZZZ.jpg'
+BookTitle = 'The Notebook' and ImageURLS = ' //images.amazon.com/images/P/0446605239.01.THUMBZZZ.jpg'
+BookTitle = 'The Notebook' and Publisher = 'Warner Books'
+BookTitle = 'The Notebook' and YearOfPublication between 1997 AND 1998
+BookTitle = 'The Partner' and ImageURLL = ' //images.amazon.com/images/P/0440224764.01.LZZZZZZZ.jpg'
+BookTitle = 'The Partner' and ImageURLM = ' //images.amazon.com/images/P/0440224764.01.MZZZZZZZ.jpg'
+BookTitle = 'The Partner' and ImageURLS = ' //images.amazon.com/images/P/0440224764.01.THUMBZZZ.jpg'
+BookTitle = 'The Partner' and Publisher = 'Dell Publishing Company'
+BookTitle = 'The Partner' and YearOfPublication between 1997 AND 1998
+BookTitle = 'The Pelican Brief' and ImageURLL = ' //images.amazon.com/images/P/0440214041.01.LZZZZZZZ.jpg'
+BookTitle = 'The Pelican Brief' and ImageURLM = ' //images.amazon.com/images/P/0440214041.01.MZZZZZZZ.jpg'
+BookTitle = 'The Pelican Brief' and ImageURLS = ' //images.amazon.com/images/P/0440214041.01.THUMBZZZ.jpg'
+BookTitle = 'The Pelican Brief' and Publisher = 'Dell'
+BookTitle = 'The Pelican Brief' and YearOfPublication between 1993 AND 1994
+BookTitle = 'The Rainmaker' and ImageURLL = ' //images.amazon.com/images/P/044022165X.01.LZZZZZZZ.jpg'
+BookTitle = 'The Rainmaker' and ImageURLM = ' //images.amazon.com/images/P/044022165X.01.MZZZZZZZ.jpg'
+BookTitle = 'The Rainmaker' and ImageURLS = ' //images.amazon.com/images/P/044022165X.01.THUMBZZZ.jpg'
+BookTitle = 'The Rainmaker' and Publisher = 'Dell'
+BookTitle = 'The Rainmaker' and YearOfPublication between 1995 AND 1996
+BookTitle = 'The Runaway Jury' and ImageURLL = ' //images.amazon.com/images/P/0440221471.01.LZZZZZZZ.jpg'
+BookTitle = 'The Runaway Jury' and ImageURLM = ' //images.amazon.com/images/P/0440221471.01.MZZZZZZZ.jpg'
+BookTitle = 'The Runaway Jury' and ImageURLS = ' //images.amazon.com/images/P/0440221471.01.THUMBZZZ.jpg'
+BookTitle = 'The Runaway Jury' and Publisher = 'Dell'
+BookTitle = 'The Runaway Jury' and YearOfPublication between 1997 AND 1998
+ImageURLL = ' //images.amazon.com/images/P/0425153975.01.LZZZZZZZ.jpg' and ImageURLM = ' //images.amazon.com/images/P/0425153975.01.MZZZZZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0425153975.01.LZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0425153975.01.THUMBZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0425153975.01.LZZZZZZZ.jpg' and Publisher = 'Berkley Publishing Group'
+ImageURLL = ' //images.amazon.com/images/P/0425153975.01.LZZZZZZZ.jpg' and YearOfPublication between 1995 AND 1996
+ImageURLL = ' //images.amazon.com/images/P/0440211727.01.LZZZZZZZ.jpg' and ImageURLM = ' //images.amazon.com/images/P/0440211727.01.MZZZZZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0440211727.01.LZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0440211727.01.THUMBZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0440211727.01.LZZZZZZZ.jpg' and Publisher = 'Dell'
+ImageURLL = ' //images.amazon.com/images/P/0440211727.01.LZZZZZZZ.jpg' and YearOfPublication between 1990 AND 1992
+ImageURLL = ' //images.amazon.com/images/P/0440214041.01.LZZZZZZZ.jpg' and ImageURLM = ' //images.amazon.com/images/P/0440214041.01.MZZZZZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0440214041.01.LZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0440214041.01.THUMBZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0440214041.01.LZZZZZZZ.jpg' and Publisher = 'Dell'
+ImageURLL = ' //images.amazon.com/images/P/0440214041.01.LZZZZZZZ.jpg' and YearOfPublication between 1993 AND 1994
+ImageURLL = ' //images.amazon.com/images/P/0440221471.01.LZZZZZZZ.jpg' and ImageURLM = ' //images.amazon.com/images/P/0440221471.01.MZZZZZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0440221471.01.LZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0440221471.01.THUMBZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0440221471.01.LZZZZZZZ.jpg' and Publisher = 'Dell'
+ImageURLL = ' //images.amazon.com/images/P/0440221471.01.LZZZZZZZ.jpg' and YearOfPublication between 1997 AND 1998
+ImageURLL = ' //images.amazon.com/images/P/044022165X.01.LZZZZZZZ.jpg' and ImageURLM = ' //images.amazon.com/images/P/044022165X.01.MZZZZZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/044022165X.01.LZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/044022165X.01.THUMBZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/044022165X.01.LZZZZZZZ.jpg' and Publisher = 'Dell'
+ImageURLL = ' //images.amazon.com/images/P/044022165X.01.LZZZZZZZ.jpg' and YearOfPublication between 1995 AND 1996
+ImageURLL = ' //images.amazon.com/images/P/0440224764.01.LZZZZZZZ.jpg' and ImageURLM = ' //images.amazon.com/images/P/0440224764.01.MZZZZZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0440224764.01.LZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0440224764.01.THUMBZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0440224764.01.LZZZZZZZ.jpg' and Publisher = 'Dell Publishing Company'
+ImageURLL = ' //images.amazon.com/images/P/0440224764.01.LZZZZZZZ.jpg' and YearOfPublication between 1997 AND 1998
+ImageURLL = ' //images.amazon.com/images/P/0446605239.01.LZZZZZZZ.jpg' and ImageURLM = ' //images.amazon.com/images/P/0446605239.01.MZZZZZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0446605239.01.LZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0446605239.01.THUMBZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0446605239.01.LZZZZZZZ.jpg' and Publisher = 'Warner Books'
+ImageURLL = ' //images.amazon.com/images/P/0446605239.01.LZZZZZZZ.jpg' and YearOfPublication between 1997 AND 1998
+ImageURLL = ' //images.amazon.com/images/P/0446608955.01.LZZZZZZZ.jpg' and ImageURLM = ' //images.amazon.com/images/P/0446608955.01.MZZZZZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0446608955.01.LZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0446608955.01.THUMBZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0446608955.01.LZZZZZZZ.jpg' and Publisher = 'Warner Books'
+ImageURLL = ' //images.amazon.com/images/P/0446608955.01.LZZZZZZZ.jpg' and YearOfPublication between 1999 AND 2000
+ImageURLL = ' //images.amazon.com/images/P/0671023616.01.LZZZZZZZ.jpg' and ImageURLM = ' //images.amazon.com/images/P/0671023616.01.MZZZZZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0671023616.01.LZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0671023616.01.THUMBZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0671023616.01.LZZZZZZZ.jpg' and Publisher = 'Pocket'
+ImageURLL = ' //images.amazon.com/images/P/0671023616.01.LZZZZZZZ.jpg' and YearOfPublication between 1997 AND 1998
+ImageURLL = ' //images.amazon.com/images/P/0671041789.01.LZZZZZZZ.jpg' and ImageURLM = ' //images.amazon.com/images/P/0671041789.01.MZZZZZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0671041789.01.LZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0671041789.01.THUMBZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0671041789.01.LZZZZZZZ.jpg' and Publisher = 'Pocket'
+ImageURLL = ' //images.amazon.com/images/P/0671041789.01.LZZZZZZZ.jpg' and YearOfPublication between 1999 AND 2000
+ImageURLL = ' //images.amazon.com/images/P/0679772677.01.LZZZZZZZ.jpg' and ImageURLM = ' //images.amazon.com/images/P/0679772677.01.MZZZZZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0679772677.01.LZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0679772677.01.THUMBZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/0679772677.01.LZZZZZZZ.jpg' and Publisher = 'Vintage'
+ImageURLL = ' //images.amazon.com/images/P/0679772677.01.LZZZZZZZ.jpg' and YearOfPublication between 1995 AND 1996
+ImageURLL = ' //images.amazon.com/images/P/080410753X.01.LZZZZZZZ.jpg' and ImageURLM = ' //images.amazon.com/images/P/080410753X.01.MZZZZZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/080410753X.01.LZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/080410753X.01.THUMBZZZ.jpg'
+ImageURLL = ' //images.amazon.com/images/P/080410753X.01.LZZZZZZZ.jpg' and Publisher = 'Ivy Books'
+ImageURLL = ' //images.amazon.com/images/P/080410753X.01.LZZZZZZZ.jpg' and YearOfPublication between 1990 AND 1992
+ImageURLM = ' //images.amazon.com/images/P/0425153975.01.MZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0425153975.01.THUMBZZZ.jpg'
+ImageURLM = ' //images.amazon.com/images/P/0425153975.01.MZZZZZZZ.jpg' and Publisher = 'Berkley Publishing Group'
+ImageURLM = ' //images.amazon.com/images/P/0425153975.01.MZZZZZZZ.jpg' and YearOfPublication between 1995 AND 1996
+ImageURLM = ' //images.amazon.com/images/P/0440211727.01.MZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0440211727.01.THUMBZZZ.jpg'
+ImageURLM = ' //images.amazon.com/images/P/0440211727.01.MZZZZZZZ.jpg' and Publisher = 'Dell'
+ImageURLM = ' //images.amazon.com/images/P/0440211727.01.MZZZZZZZ.jpg' and YearOfPublication between 1990 AND 1992
+ImageURLM = ' //images.amazon.com/images/P/0440214041.01.MZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0440214041.01.THUMBZZZ.jpg'
+ImageURLM = ' //images.amazon.com/images/P/0440214041.01.MZZZZZZZ.jpg' and Publisher = 'Dell'
+ImageURLM = ' //images.amazon.com/images/P/0440214041.01.MZZZZZZZ.jpg' and YearOfPublication between 1993 AND 1994
+ImageURLM = ' //images.amazon.com/images/P/0440221471.01.MZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0440221471.01.THUMBZZZ.jpg'
+ImageURLM = ' //images.amazon.com/images/P/0440221471.01.MZZZZZZZ.jpg' and Publisher = 'Dell'
+ImageURLM = ' //images.amazon.com/images/P/0440221471.01.MZZZZZZZ.jpg' and YearOfPublication between 1997 AND 1998
+ImageURLM = ' //images.amazon.com/images/P/044022165X.01.MZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/044022165X.01.THUMBZZZ.jpg'
+ImageURLM = ' //images.amazon.com/images/P/044022165X.01.MZZZZZZZ.jpg' and Publisher = 'Dell'
+ImageURLM = ' //images.amazon.com/images/P/044022165X.01.MZZZZZZZ.jpg' and YearOfPublication between 1995 AND 1996
+ImageURLM = ' //images.amazon.com/images/P/0440224764.01.MZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0440224764.01.THUMBZZZ.jpg'
+ImageURLM = ' //images.amazon.com/images/P/0440224764.01.MZZZZZZZ.jpg' and Publisher = 'Dell Publishing Company'
+ImageURLM = ' //images.amazon.com/images/P/0440224764.01.MZZZZZZZ.jpg' and YearOfPublication between 1997 AND 1998
+ImageURLM = ' //images.amazon.com/images/P/0446605239.01.MZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0446605239.01.THUMBZZZ.jpg'
+ImageURLM = ' //images.amazon.com/images/P/0446605239.01.MZZZZZZZ.jpg' and Publisher = 'Warner Books'
+ImageURLM = ' //images.amazon.com/images/P/0446605239.01.MZZZZZZZ.jpg' and YearOfPublication between 1997 AND 1998
+ImageURLM = ' //images.amazon.com/images/P/0446608955.01.MZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0446608955.01.THUMBZZZ.jpg'
+ImageURLM = ' //images.amazon.com/images/P/0446608955.01.MZZZZZZZ.jpg' and Publisher = 'Warner Books'
+ImageURLM = ' //images.amazon.com/images/P/0446608955.01.MZZZZZZZ.jpg' and YearOfPublication between 1999 AND 2000
+ImageURLM = ' //images.amazon.com/images/P/0671023616.01.MZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0671023616.01.THUMBZZZ.jpg'
+ImageURLM = ' //images.amazon.com/images/P/0671023616.01.MZZZZZZZ.jpg' and Publisher = 'Pocket'
+ImageURLM = ' //images.amazon.com/images/P/0671023616.01.MZZZZZZZ.jpg' and YearOfPublication between 1997 AND 1998
+ImageURLM = ' //images.amazon.com/images/P/0671041789.01.MZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0671041789.01.THUMBZZZ.jpg'
+ImageURLM = ' //images.amazon.com/images/P/0671041789.01.MZZZZZZZ.jpg' and Publisher = 'Pocket'
+ImageURLM = ' //images.amazon.com/images/P/0671041789.01.MZZZZZZZ.jpg' and YearOfPublication between 1999 AND 2000
+ImageURLM = ' //images.amazon.com/images/P/0679772677.01.MZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/0679772677.01.THUMBZZZ.jpg'
+ImageURLM = ' //images.amazon.com/images/P/0679772677.01.MZZZZZZZ.jpg' and Publisher = 'Vintage'
+ImageURLM = ' //images.amazon.com/images/P/0679772677.01.MZZZZZZZ.jpg' and YearOfPublication between 1995 AND 1996
+ImageURLM = ' //images.amazon.com/images/P/080410753X.01.MZZZZZZZ.jpg' and ImageURLS = ' //images.amazon.com/images/P/080410753X.01.THUMBZZZ.jpg'
+ImageURLM = ' //images.amazon.com/images/P/080410753X.01.MZZZZZZZ.jpg' and Publisher = 'Ivy Books'
+ImageURLM = ' //images.amazon.com/images/P/080410753X.01.MZZZZZZZ.jpg' and YearOfPublication between 1990 AND 1992
+ImageURLS = ' //images.amazon.com/images/P/0425153975.01.THUMBZZZ.jpg' and Publisher = 'Berkley Publishing Group'
+ImageURLS = ' //images.amazon.com/images/P/0425153975.01.THUMBZZZ.jpg' and YearOfPublication between 1995 AND 1996
+ImageURLS = ' //images.amazon.com/images/P/0440211727.01.THUMBZZZ.jpg' and Publisher = 'Dell'
+ImageURLS = ' //images.amazon.com/images/P/0440211727.01.THUMBZZZ.jpg' and YearOfPublication between 1990 AND 1992
+ImageURLS = ' //images.amazon.com/images/P/0440214041.01.THUMBZZZ.jpg' and Publisher = 'Dell'
+ImageURLS = ' //images.amazon.com/images/P/0440214041.01.THUMBZZZ.jpg' and YearOfPublication between 1993 AND 1994
+ImageURLS = ' //images.amazon.com/images/P/0440221471.01.THUMBZZZ.jpg' and Publisher = 'Dell'
+ImageURLS = ' //images.amazon.com/images/P/0440221471.01.THUMBZZZ.jpg' and YearOfPublication between 1997 AND 1998
+ImageURLS = ' //images.amazon.com/images/P/044022165X.01.THUMBZZZ.jpg' and Publisher = 'Dell'
+ImageURLS = ' //images.amazon.com/images/P/044022165X.01.THUMBZZZ.jpg' and YearOfPublication between 1995 AND 1996
+ImageURLS = ' //images.amazon.com/images/P/0440224764.01.THUMBZZZ.jpg' and Publisher = 'Dell Publishing Company'
+ImageURLS = ' //images.amazon.com/images/P/0440224764.01.THUMBZZZ.jpg' and YearOfPublication between 1997 AND 1998
+ImageURLS = ' //images.amazon.com/images/P/0446605239.01.THUMBZZZ.jpg' and Publisher = 'Warner Books'
+ImageURLS = ' //images.amazon.com/images/P/0446605239.01.THUMBZZZ.jpg' and YearOfPublication between 1997 AND 1998
+ImageURLS = ' //images.amazon.com/images/P/0446608955.01.THUMBZZZ.jpg' and Publisher = 'Warner Books'
+ImageURLS = ' //images.amazon.com/images/P/0446608955.01.THUMBZZZ.jpg' and YearOfPublication between 1999 AND 2000
+ImageURLS = ' //images.amazon.com/images/P/0671023616.01.THUMBZZZ.jpg' and Publisher = 'Pocket'
+ImageURLS = ' //images.amazon.com/images/P/0671023616.01.THUMBZZZ.jpg' and YearOfPublication between 1997 AND 1998
+ImageURLS = ' //images.amazon.com/images/P/0671041789.01.THUMBZZZ.jpg' and Publisher = 'Pocket'
+ImageURLS = ' //images.amazon.com/images/P/0671041789.01.THUMBZZZ.jpg' and YearOfPublication between 1999 AND 2000
+ImageURLS = ' //images.amazon.com/images/P/0679772677.01.THUMBZZZ.jpg' and Publisher = 'Vintage'
+ImageURLS = ' //images.amazon.com/images/P/0679772677.01.THUMBZZZ.jpg' and YearOfPublication between 1995 AND 1996
+ImageURLS = ' //images.amazon.com/images/P/080410753X.01.THUMBZZZ.jpg' and Publisher = 'Ivy Books'
+ImageURLS = ' //images.amazon.com/images/P/080410753X.01.THUMBZZZ.jpg' and YearOfPublication between 1990 AND 1992
+Publisher = 'Bantam' and YearOfPublication between 1997 AND 1998
+Publisher = 'Berkley Publishing Group' and YearOfPublication between 1993 AND 1994
+Publisher = 'Berkley Publishing Group' and YearOfPublication between 1995 AND 1996
+Publisher = 'Berkley Publishing Group' and Age between 31 AND 32
+Publisher = 'Berkley Publishing Group' and Location = 'cordova, tennessee, usa'
+Publisher = 'Dell' and YearOfPublication between 1990 AND 1992
+Publisher = 'Dell' and YearOfPublication between 1993 AND 1994
+Publisher = 'Dell' and YearOfPublication between 1995 AND 1996
+Publisher = 'Dell' and YearOfPublication between 1997 AND 1998
+Publisher = 'Dell' and Age between 29 AND 29
+Publisher = 'Dell' and Age between 31 AND 32
+Publisher = 'Dell' and Age between 33 AND 36
+Publisher = 'Dell' and Location = 'cordova, tennessee, usa'
+Publisher = 'Dell' and Location = 'lisboa, lisboa, portugal'
+Publisher = 'Dell Publishing Company' and YearOfPublication between 1997 AND 1998
+Publisher = 'Dell Publishing Company' and Age between 31 AND 32
+Publisher = 'Dell Publishing Company' and Location = 'cordova, tennessee, usa'
+Publisher = 'Fawcett Books' and Age between 31 AND 32
+Publisher = 'Fawcett Books' and Location = 'cordova, tennessee, usa'
+Publisher = 'Health Communications' and Age between 18 AND 27
+Publisher = 'Health Communications' and Location = 'las vegas, nevada, usa'
+Publisher = 'Ivy Books' and YearOfPublication between 1990 AND 1992
+Publisher = 'Penguin USA' and YearOfPublication between 1997 AND 1998
+Publisher = 'Pocket' and YearOfPublication between 1990 AND 1992
+Publisher = 'Pocket' and YearOfPublication between 1997 AND 1998
+Publisher = 'Pocket' and YearOfPublication between 1999 AND 2000
+Publisher = 'Pocket' and Age between 31 AND 32
+Publisher = 'Pocket' and Location = 'cordova, tennessee, usa'
+Publisher = 'Scholastic' and YearOfPublication between 1995 AND 1996
+Publisher = 'Scribner' and YearOfPublication between 1999 AND 2000
+Publisher = 'Scribner' and Age between 31 AND 32
+Publisher = 'Scribner' and Age between 48 AND 60
+Publisher = 'Scribner' and Location = 'cordova, tennessee, usa'
+Publisher = 'Signet Book' and Age between 31 AND 32
+Publisher = 'Signet Book' and Location = 'cordova, tennessee, usa'
+Publisher = 'Vintage' and YearOfPublication between 1995 AND 1996
+Publisher = 'Warner Books' and YearOfPublication between 1997 AND 1998
+Publisher = 'Warner Books' and YearOfPublication between 1999 AND 2000
+Publisher = 'Warner Books' and Age between 31 AND 32
+Publisher = 'Warner Books' and Location = 'cordova, tennessee, usa'
+Publisher = 'Warner Vision' and YearOfPublication between 1999 AND 2000
+Publisher = 'Warner Vision' and Age between 31 AND 32
+Publisher = 'Warner Vision' and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1990 AND 1992 and Age between 29 AND 29
+YearOfPublication between 1990 AND 1992 and Age between 31 AND 32
+YearOfPublication between 1990 AND 1992 and Age between 33 AND 36
+YearOfPublication between 1990 AND 1992 and Age between 48 AND 60
+YearOfPublication between 1990 AND 1992 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1990 AND 1992 and Location = 'lancaster, pennsylvania, usa'
+YearOfPublication between 1990 AND 1992 and Location = 'lisboa, lisboa, portugal'
+YearOfPublication between 1993 AND 1994 and Age between 18 AND 27
+YearOfPublication between 1993 AND 1994 and Age between 31 AND 32
+YearOfPublication between 1993 AND 1994 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1995 AND 1996 and Age between 29 AND 29
+YearOfPublication between 1995 AND 1996 and Age between 31 AND 32
+YearOfPublication between 1995 AND 1996 and Age between 48 AND 60
+YearOfPublication between 1995 AND 1996 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1995 AND 1996 and Location = 'lisboa, lisboa, portugal'
+YearOfPublication between 1997 AND 1998 and Age between 18 AND 27
+YearOfPublication between 1997 AND 1998 and Age between 29 AND 29
+YearOfPublication between 1997 AND 1998 and Age between 31 AND 32
+YearOfPublication between 1997 AND 1998 and Age between 33 AND 36
+YearOfPublication between 1997 AND 1998 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1997 AND 1998 and Location = 'lancaster, pennsylvania, usa'
+YearOfPublication between 1997 AND 1998 and Location = 'lisboa, lisboa, portugal'
+YearOfPublication between 1999 AND 2000 and Age between 18 AND 27
+YearOfPublication between 1999 AND 2000 and Age between 31 AND 32
+YearOfPublication between 1999 AND 2000 and Age between 33 AND 36
+YearOfPublication between 1999 AND 2000 and Age between 48 AND 60
+YearOfPublication between 1999 AND 2000 and Location = 'adelaide, south australia, australia'
+YearOfPublication between 1999 AND 2000 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1999 AND 2000 and Location = 'harrisburg, pennsylvania, usa'
+YearOfPublication between 1999 AND 2000 and Location = 'lancaster, pennsylvania, usa'
+Age between 18 AND 27 and Location = 'fishers, indiana, usa'
+Age between 18 AND 27 and Location = 'las vegas, nevada, usa'
+Age between 29 AND 29 and Location = 'lisboa, lisboa, portugal'
+Age between 31 AND 32 and Location = 'cordova, tennessee, usa'
+Age between 33 AND 36 and Location = 'lancaster, pennsylvania, usa'
+Age between 48 AND 60 and Location = 'harrisburg, pennsylvania, usa'

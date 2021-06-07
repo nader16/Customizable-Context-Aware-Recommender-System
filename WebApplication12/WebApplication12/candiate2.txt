@@ -1,0 +1,170 @@
+BookAuthor = 'John Grisham' and YearOfPublication between 1990 AND 1993
+BookAuthor = 'John Grisham' and YearOfPublication between 1993 AND 1996
+BookAuthor = 'John Grisham' and YearOfPublication between 1996 AND 1999
+BookAuthor = 'John Grisham' and YearOfPublication between 1999 AND 2002
+BookAuthor = 'John Grisham' and Publisher = 'Berkley Publishing Group'
+BookAuthor = 'John Grisham' and Publisher = 'Dell'
+BookAuthor = 'John Grisham' and Publisher = 'Pocket'
+BookAuthor = 'John Grisham' and Publisher = 'Warner Books'
+BookAuthor = 'John Grisham' and Location = 'cordova, tennessee, usa'
+BookAuthor = 'John Grisham' and Location = 'harrisburg, pennsylvania, usa'
+BookAuthor = 'John Grisham' and Location = 'lancaster, pennsylvania, usa'
+BookAuthor = 'John Grisham' and Location = 'lisboa, lisboa, portugal'
+BookAuthor = 'John Grisham' and Age between 28 AND 30
+BookAuthor = 'John Grisham' and Age between 30 AND 32
+BookAuthor = 'John Grisham' and Age between 32 AND 34
+BookAuthor = 'John Grisham' and Age between 34 AND 36
+BookAuthor = 'John Grisham' and Age between 36 AND 38
+BookAuthor = 'John Grisham' and Age between 58 AND 60
+BookAuthor = 'John Grisham' and Age between 60 AND 62
+BookAuthor = 'Nicholas Sparks' and YearOfPublication between 1990 AND 1993
+BookAuthor = 'Nicholas Sparks' and YearOfPublication between 1993 AND 1996
+BookAuthor = 'Nicholas Sparks' and YearOfPublication between 1996 AND 1999
+BookAuthor = 'Nicholas Sparks' and YearOfPublication between 1999 AND 2002
+BookAuthor = 'Nicholas Sparks' and Publisher = 'Berkley Publishing Group'
+BookAuthor = 'Nicholas Sparks' and Publisher = 'Dell'
+BookAuthor = 'Nicholas Sparks' and Publisher = 'Pocket'
+BookAuthor = 'Nicholas Sparks' and Publisher = 'Warner Books'
+BookAuthor = 'Nicholas Sparks' and Location = 'cordova, tennessee, usa'
+BookAuthor = 'Nicholas Sparks' and Location = 'harrisburg, pennsylvania, usa'
+BookAuthor = 'Nicholas Sparks' and Location = 'lancaster, pennsylvania, usa'
+BookAuthor = 'Nicholas Sparks' and Location = 'lisboa, lisboa, portugal'
+BookAuthor = 'Nicholas Sparks' and Age between 28 AND 30
+BookAuthor = 'Nicholas Sparks' and Age between 30 AND 32
+BookAuthor = 'Nicholas Sparks' and Age between 32 AND 34
+BookAuthor = 'Nicholas Sparks' and Age between 34 AND 36
+BookAuthor = 'Nicholas Sparks' and Age between 36 AND 38
+BookAuthor = 'Nicholas Sparks' and Age between 58 AND 60
+BookAuthor = 'Nicholas Sparks' and Age between 60 AND 62
+YearOfPublication between 1990 AND 1993 and Publisher = 'Berkley Publishing Group'
+YearOfPublication between 1990 AND 1993 and Publisher = 'Dell'
+YearOfPublication between 1990 AND 1993 and Publisher = 'Pocket'
+YearOfPublication between 1990 AND 1993 and Publisher = 'Warner Books'
+YearOfPublication between 1990 AND 1993 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1990 AND 1993 and Location = 'harrisburg, pennsylvania, usa'
+YearOfPublication between 1990 AND 1993 and Location = 'lancaster, pennsylvania, usa'
+YearOfPublication between 1990 AND 1993 and Location = 'lisboa, lisboa, portugal'
+YearOfPublication between 1990 AND 1993 and Age between 28 AND 30
+YearOfPublication between 1990 AND 1993 and Age between 30 AND 32
+YearOfPublication between 1990 AND 1993 and Age between 32 AND 34
+YearOfPublication between 1990 AND 1993 and Age between 34 AND 36
+YearOfPublication between 1990 AND 1993 and Age between 36 AND 38
+YearOfPublication between 1990 AND 1993 and Age between 58 AND 60
+YearOfPublication between 1990 AND 1993 and Age between 60 AND 62
+YearOfPublication between 1993 AND 1996 and Publisher = 'Berkley Publishing Group'
+YearOfPublication between 1993 AND 1996 and Publisher = 'Dell'
+YearOfPublication between 1993 AND 1996 and Publisher = 'Pocket'
+YearOfPublication between 1993 AND 1996 and Publisher = 'Warner Books'
+YearOfPublication between 1993 AND 1996 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1993 AND 1996 and Location = 'harrisburg, pennsylvania, usa'
+YearOfPublication between 1993 AND 1996 and Location = 'lancaster, pennsylvania, usa'
+YearOfPublication between 1993 AND 1996 and Location = 'lisboa, lisboa, portugal'
+YearOfPublication between 1993 AND 1996 and Age between 28 AND 30
+YearOfPublication between 1993 AND 1996 and Age between 30 AND 32
+YearOfPublication between 1993 AND 1996 and Age between 32 AND 34
+YearOfPublication between 1993 AND 1996 and Age between 34 AND 36
+YearOfPublication between 1993 AND 1996 and Age between 36 AND 38
+YearOfPublication between 1993 AND 1996 and Age between 58 AND 60
+YearOfPublication between 1993 AND 1996 and Age between 60 AND 62
+YearOfPublication between 1996 AND 1999 and Publisher = 'Berkley Publishing Group'
+YearOfPublication between 1996 AND 1999 and Publisher = 'Dell'
+YearOfPublication between 1996 AND 1999 and Publisher = 'Pocket'
+YearOfPublication between 1996 AND 1999 and Publisher = 'Warner Books'
+YearOfPublication between 1996 AND 1999 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1996 AND 1999 and Location = 'harrisburg, pennsylvania, usa'
+YearOfPublication between 1996 AND 1999 and Location = 'lancaster, pennsylvania, usa'
+YearOfPublication between 1996 AND 1999 and Location = 'lisboa, lisboa, portugal'
+YearOfPublication between 1996 AND 1999 and Age between 28 AND 30
+YearOfPublication between 1996 AND 1999 and Age between 30 AND 32
+YearOfPublication between 1996 AND 1999 and Age between 32 AND 34
+YearOfPublication between 1996 AND 1999 and Age between 34 AND 36
+YearOfPublication between 1996 AND 1999 and Age between 36 AND 38
+YearOfPublication between 1996 AND 1999 and Age between 58 AND 60
+YearOfPublication between 1996 AND 1999 and Age between 60 AND 62
+YearOfPublication between 1999 AND 2002 and Publisher = 'Berkley Publishing Group'
+YearOfPublication between 1999 AND 2002 and Publisher = 'Dell'
+YearOfPublication between 1999 AND 2002 and Publisher = 'Pocket'
+YearOfPublication between 1999 AND 2002 and Publisher = 'Warner Books'
+YearOfPublication between 1999 AND 2002 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1999 AND 2002 and Location = 'harrisburg, pennsylvania, usa'
+YearOfPublication between 1999 AND 2002 and Location = 'lancaster, pennsylvania, usa'
+YearOfPublication between 1999 AND 2002 and Location = 'lisboa, lisboa, portugal'
+YearOfPublication between 1999 AND 2002 and Age between 28 AND 30
+YearOfPublication between 1999 AND 2002 and Age between 30 AND 32
+YearOfPublication between 1999 AND 2002 and Age between 32 AND 34
+YearOfPublication between 1999 AND 2002 and Age between 34 AND 36
+YearOfPublication between 1999 AND 2002 and Age between 36 AND 38
+YearOfPublication between 1999 AND 2002 and Age between 58 AND 60
+YearOfPublication between 1999 AND 2002 and Age between 60 AND 62
+Publisher = 'Berkley Publishing Group' and Location = 'cordova, tennessee, usa'
+Publisher = 'Berkley Publishing Group' and Location = 'harrisburg, pennsylvania, usa'
+Publisher = 'Berkley Publishing Group' and Location = 'lancaster, pennsylvania, usa'
+Publisher = 'Berkley Publishing Group' and Location = 'lisboa, lisboa, portugal'
+Publisher = 'Berkley Publishing Group' and Age between 28 AND 30
+Publisher = 'Berkley Publishing Group' and Age between 30 AND 32
+Publisher = 'Berkley Publishing Group' and Age between 32 AND 34
+Publisher = 'Berkley Publishing Group' and Age between 34 AND 36
+Publisher = 'Berkley Publishing Group' and Age between 36 AND 38
+Publisher = 'Berkley Publishing Group' and Age between 58 AND 60
+Publisher = 'Berkley Publishing Group' and Age between 60 AND 62
+Publisher = 'Dell' and Location = 'cordova, tennessee, usa'
+Publisher = 'Dell' and Location = 'harrisburg, pennsylvania, usa'
+Publisher = 'Dell' and Location = 'lancaster, pennsylvania, usa'
+Publisher = 'Dell' and Location = 'lisboa, lisboa, portugal'
+Publisher = 'Dell' and Age between 28 AND 30
+Publisher = 'Dell' and Age between 30 AND 32
+Publisher = 'Dell' and Age between 32 AND 34
+Publisher = 'Dell' and Age between 34 AND 36
+Publisher = 'Dell' and Age between 36 AND 38
+Publisher = 'Dell' and Age between 58 AND 60
+Publisher = 'Dell' and Age between 60 AND 62
+Publisher = 'Pocket' and Location = 'cordova, tennessee, usa'
+Publisher = 'Pocket' and Location = 'harrisburg, pennsylvania, usa'
+Publisher = 'Pocket' and Location = 'lancaster, pennsylvania, usa'
+Publisher = 'Pocket' and Location = 'lisboa, lisboa, portugal'
+Publisher = 'Pocket' and Age between 28 AND 30
+Publisher = 'Pocket' and Age between 30 AND 32
+Publisher = 'Pocket' and Age between 32 AND 34
+Publisher = 'Pocket' and Age between 34 AND 36
+Publisher = 'Pocket' and Age between 36 AND 38
+Publisher = 'Pocket' and Age between 58 AND 60
+Publisher = 'Pocket' and Age between 60 AND 62
+Publisher = 'Warner Books' and Location = 'cordova, tennessee, usa'
+Publisher = 'Warner Books' and Location = 'harrisburg, pennsylvania, usa'
+Publisher = 'Warner Books' and Location = 'lancaster, pennsylvania, usa'
+Publisher = 'Warner Books' and Location = 'lisboa, lisboa, portugal'
+Publisher = 'Warner Books' and Age between 28 AND 30
+Publisher = 'Warner Books' and Age between 30 AND 32
+Publisher = 'Warner Books' and Age between 32 AND 34
+Publisher = 'Warner Books' and Age between 34 AND 36
+Publisher = 'Warner Books' and Age between 36 AND 38
+Publisher = 'Warner Books' and Age between 58 AND 60
+Publisher = 'Warner Books' and Age between 60 AND 62
+Location = 'cordova, tennessee, usa' and Age between 28 AND 30
+Location = 'cordova, tennessee, usa' and Age between 30 AND 32
+Location = 'cordova, tennessee, usa' and Age between 32 AND 34
+Location = 'cordova, tennessee, usa' and Age between 34 AND 36
+Location = 'cordova, tennessee, usa' and Age between 36 AND 38
+Location = 'cordova, tennessee, usa' and Age between 58 AND 60
+Location = 'cordova, tennessee, usa' and Age between 60 AND 62
+Location = 'harrisburg, pennsylvania, usa' and Age between 28 AND 30
+Location = 'harrisburg, pennsylvania, usa' and Age between 30 AND 32
+Location = 'harrisburg, pennsylvania, usa' and Age between 32 AND 34
+Location = 'harrisburg, pennsylvania, usa' and Age between 34 AND 36
+Location = 'harrisburg, pennsylvania, usa' and Age between 36 AND 38
+Location = 'harrisburg, pennsylvania, usa' and Age between 58 AND 60
+Location = 'harrisburg, pennsylvania, usa' and Age between 60 AND 62
+Location = 'lancaster, pennsylvania, usa' and Age between 28 AND 30
+Location = 'lancaster, pennsylvania, usa' and Age between 30 AND 32
+Location = 'lancaster, pennsylvania, usa' and Age between 32 AND 34
+Location = 'lancaster, pennsylvania, usa' and Age between 34 AND 36
+Location = 'lancaster, pennsylvania, usa' and Age between 36 AND 38
+Location = 'lancaster, pennsylvania, usa' and Age between 58 AND 60
+Location = 'lancaster, pennsylvania, usa' and Age between 60 AND 62
+Location = 'lisboa, lisboa, portugal' and Age between 28 AND 30
+Location = 'lisboa, lisboa, portugal' and Age between 30 AND 32
+Location = 'lisboa, lisboa, portugal' and Age between 32 AND 34
+Location = 'lisboa, lisboa, portugal' and Age between 34 AND 36
+Location = 'lisboa, lisboa, portugal' and Age between 36 AND 38
+Location = 'lisboa, lisboa, portugal' and Age between 58 AND 60
+Location = 'lisboa, lisboa, portugal' and Age between 60 AND 62

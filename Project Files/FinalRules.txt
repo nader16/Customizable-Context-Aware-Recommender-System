@@ -1,0 +1,66 @@
+BookAuthor = 'Anne Tyler' and Location = 'raleigh, north carolina, usa'
+BookAuthor = 'Dean R. Koontz' and Age between 31 AND 32
+BookAuthor = 'Dean R. Koontz' and Location = 'cordova, tennessee, usa'
+BookAuthor = 'Jack Canfield' and Age between 18 AND 27
+BookAuthor = 'Jack Canfield' and Location = 'las vegas, nevada, usa'
+BookAuthor = 'John Grisham' and Age between 29 AND 29
+BookAuthor = 'John Grisham' and Age between 31 AND 32
+BookAuthor = 'John Grisham' and Location = 'cordova, tennessee, usa'
+BookAuthor = 'John Grisham' and Location = 'lisboa, lisboa, portugal'
+BookAuthor = 'John Grisham' and Location = 'oceanside, california, usa'
+BookAuthor = 'V.C. Andrews' and Age between 31 AND 32
+BookAuthor = 'V.C. Andrews' and Location = 'cordova, tennessee, usa'
+Publisher = 'Berkley Publishing Group' and Age between 31 AND 32
+Publisher = 'Berkley Publishing Group' and Location = 'cordova, tennessee, usa'
+Publisher = 'Dell' and Age between 29 AND 29
+Publisher = 'Dell' and Age between 31 AND 32
+Publisher = 'Dell' and Age between 33 AND 36
+Publisher = 'Dell' and Location = 'cordova, tennessee, usa'
+Publisher = 'Dell' and Location = 'lisboa, lisboa, portugal'
+Publisher = 'Dell Publishing Company' and Age between 31 AND 32
+Publisher = 'Dell Publishing Company' and Location = 'cordova, tennessee, usa'
+Publisher = 'Fawcett Books' and Age between 31 AND 32
+Publisher = 'Fawcett Books' and Location = 'cordova, tennessee, usa'
+Publisher = 'Health Communications' and Age between 18 AND 27
+Publisher = 'Health Communications' and Location = 'las vegas, nevada, usa'
+Publisher = 'Pocket' and Age between 31 AND 32
+Publisher = 'Pocket' and Location = 'cordova, tennessee, usa'
+Publisher = 'Scribner' and Age between 31 AND 32
+Publisher = 'Scribner' and Age between 48 AND 60
+Publisher = 'Scribner' and Location = 'cordova, tennessee, usa'
+Publisher = 'Signet Book' and Age between 31 AND 32
+Publisher = 'Signet Book' and Location = 'cordova, tennessee, usa'
+Publisher = 'Warner Books' and Age between 31 AND 32
+Publisher = 'Warner Books' and Location = 'cordova, tennessee, usa'
+Publisher = 'Warner Vision' and Age between 31 AND 32
+Publisher = 'Warner Vision' and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1990 AND 1992 and Age between 29 AND 29
+YearOfPublication between 1990 AND 1992 and Age between 31 AND 32
+YearOfPublication between 1990 AND 1992 and Age between 33 AND 36
+YearOfPublication between 1990 AND 1992 and Age between 48 AND 60
+YearOfPublication between 1990 AND 1992 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1990 AND 1992 and Location = 'lancaster, pennsylvania, usa'
+YearOfPublication between 1990 AND 1992 and Location = 'lisboa, lisboa, portugal'
+YearOfPublication between 1993 AND 1994 and Age between 18 AND 27
+YearOfPublication between 1993 AND 1994 and Age between 31 AND 32
+YearOfPublication between 1993 AND 1994 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1995 AND 1996 and Age between 29 AND 29
+YearOfPublication between 1995 AND 1996 and Age between 31 AND 32
+YearOfPublication between 1995 AND 1996 and Age between 48 AND 60
+YearOfPublication between 1995 AND 1996 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1995 AND 1996 and Location = 'lisboa, lisboa, portugal'
+YearOfPublication between 1997 AND 1998 and Age between 18 AND 27
+YearOfPublication between 1997 AND 1998 and Age between 29 AND 29
+YearOfPublication between 1997 AND 1998 and Age between 31 AND 32
+YearOfPublication between 1997 AND 1998 and Age between 33 AND 36
+YearOfPublication between 1997 AND 1998 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1997 AND 1998 and Location = 'lancaster, pennsylvania, usa'
+YearOfPublication between 1997 AND 1998 and Location = 'lisboa, lisboa, portugal'
+YearOfPublication between 1999 AND 2000 and Age between 18 AND 27
+YearOfPublication between 1999 AND 2000 and Age between 31 AND 32
+YearOfPublication between 1999 AND 2000 and Age between 33 AND 36
+YearOfPublication between 1999 AND 2000 and Age between 48 AND 60
+YearOfPublication between 1999 AND 2000 and Location = 'adelaide, south australia, australia'
+YearOfPublication between 1999 AND 2000 and Location = 'cordova, tennessee, usa'
+YearOfPublication between 1999 AND 2000 and Location = 'harrisburg, pennsylvania, usa'
+YearOfPublication between 1999 AND 2000 and Location = 'lancaster, pennsylvania, usa'

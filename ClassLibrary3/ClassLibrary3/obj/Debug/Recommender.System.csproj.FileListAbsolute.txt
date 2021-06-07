@@ -1,0 +1,12 @@
+C:\Users\hisham etal\Documents\Visual Studio 2013\Projects\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\Users\hisham etal\Documents\Visual Studio 2013\Projects\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\Users\hisham etal\Documents\Visual Studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\Users\hisham etal\Documents\Visual Studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
+D:\Fcis\Fourth Year\GP\Customizable Context-Aware Recommender System\Implementaion\Web + DLL\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+D:\Fcis\Fourth Year\GP\Customizable Context-Aware Recommender System\Implementaion\Web + DLL\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+D:\Fcis\Fourth Year\GP\Customizable Context-Aware Recommender System\Implementaion\Web + DLL\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+D:\Fcis\Fourth Year\GP\Customizable Context-Aware Recommender System\Implementaion\Web + DLL\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
+E:\Web + DLL\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+E:\Web + DLL\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+E:\Web + DLL\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+E:\Web + DLL\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.pdb

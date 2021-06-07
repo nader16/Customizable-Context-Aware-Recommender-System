@@ -1,0 +1,9 @@
+BookAuthor = 'John Grisham' and YearOfPublication between 1991 AND 1996 and  Publisher = 'Dell' and   Age between 27 AND 32
+BookAuthor = 'John Grisham' and YearOfPublication between 1991 AND 1996 and  Publisher = 'Dell' and   Age between 28 AND 33
+BookAuthor = 'John Grisham' and YearOfPublication between 1991 AND 1996 and  Publisher = 'Dell' and   Age between 29 AND 34
+BookAuthor = 'John Grisham' and YearOfPublication between 1992 AND 1997 and  Publisher = 'Dell' and   Age between 27 AND 32
+BookAuthor = 'John Grisham' and YearOfPublication between 1992 AND 1997 and  Publisher = 'Dell' and   Age between 28 AND 33
+BookAuthor = 'John Grisham' and YearOfPublication between 1992 AND 1997 and  Publisher = 'Dell' and   Age between 29 AND 34
+BookAuthor = 'John Grisham' and YearOfPublication between 1993 AND 1998 and  Publisher = 'Dell' and   Age between 27 AND 32
+BookAuthor = 'John Grisham' and YearOfPublication between 1993 AND 1998 and  Publisher = 'Dell' and   Age between 28 AND 33
+BookAuthor = 'John Grisham' and YearOfPublication between 1993 AND 1998 and  Publisher = 'Dell' and   Age between 29 AND 34

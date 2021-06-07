@@ -1,0 +1,21 @@
+BookAuthor = 'John Grisham'
+BookAuthor = 'Nicholas Sparks'
+YearOfPublication between 1990 AND 1993
+YearOfPublication between 1993 AND 1996
+YearOfPublication between 1996 AND 1999
+YearOfPublication between 1999 AND 2002
+Publisher = 'Berkley Publishing Group'
+Publisher = 'Dell'
+Publisher = 'Pocket'
+Publisher = 'Warner Books'
+Location = 'cordova, tennessee, usa'
+Location = 'harrisburg, pennsylvania, usa'
+Location = 'lancaster, pennsylvania, usa'
+Location = 'lisboa, lisboa, portugal'
+Age between 28 AND 30
+Age between 30 AND 32
+Age between 32 AND 34
+Age between 34 AND 36
+Age between 36 AND 38
+Age between 58 AND 60
+Age between 60 AND 62

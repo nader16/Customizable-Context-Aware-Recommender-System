@@ -1,0 +1,37 @@
+BookAuthor = 'John Grisham' and YearOfPublication between 1990 AND 1993 and  Publisher = 'Dell'
+BookAuthor = 'John Grisham' and YearOfPublication between 1990 AND 1993 and  Location = 'cordova, tennessee, usa'
+BookAuthor = 'John Grisham' and YearOfPublication between 1990 AND 1993 and  Age between 30 AND 32
+BookAuthor = 'John Grisham' and YearOfPublication between 1990 AND 1993 and  Age between 32 AND 34
+BookAuthor = 'John Grisham' and YearOfPublication between 1993 AND 1996 and  Publisher = 'Dell'
+BookAuthor = 'John Grisham' and YearOfPublication between 1993 AND 1996 and  Location = 'cordova, tennessee, usa'
+BookAuthor = 'John Grisham' and YearOfPublication between 1993 AND 1996 and  Age between 30 AND 32
+BookAuthor = 'John Grisham' and YearOfPublication between 1993 AND 1996 and  Age between 32 AND 34
+BookAuthor = 'John Grisham' and YearOfPublication between 1996 AND 1999 and  Publisher = 'Dell'
+BookAuthor = 'John Grisham' and YearOfPublication between 1996 AND 1999 and  Location = 'cordova, tennessee, usa'
+BookAuthor = 'John Grisham' and YearOfPublication between 1996 AND 1999 and  Age between 30 AND 32
+BookAuthor = 'John Grisham' and YearOfPublication between 1996 AND 1999 and  Age between 32 AND 34
+BookAuthor = 'John Grisham' and Publisher = 'Dell' and  Location = 'cordova, tennessee, usa'
+BookAuthor = 'John Grisham' and Publisher = 'Dell' and  Age between 30 AND 32
+BookAuthor = 'John Grisham' and Publisher = 'Dell' and  Age between 32 AND 34
+BookAuthor = 'John Grisham' and Location = 'cordova, tennessee, usa' and  Age between 30 AND 32
+BookAuthor = 'John Grisham' and Location = 'cordova, tennessee, usa' and  Age between 32 AND 34
+YearOfPublication between 1990 AND 1993 and Publisher = 'Dell' and  Location = 'cordova, tennessee, usa'
+YearOfPublication between 1990 AND 1993 and Publisher = 'Dell' and  Age between 30 AND 32
+YearOfPublication between 1990 AND 1993 and Publisher = 'Dell' and  Age between 32 AND 34
+YearOfPublication between 1990 AND 1993 and Location = 'cordova, tennessee, usa' and  Age between 30 AND 32
+YearOfPublication between 1990 AND 1993 and Location = 'cordova, tennessee, usa' and  Age between 32 AND 34
+YearOfPublication between 1993 AND 1996 and Location = 'cordova, tennessee, usa' and  Age between 30 AND 32
+YearOfPublication between 1993 AND 1996 and Location = 'cordova, tennessee, usa' and  Age between 32 AND 34
+YearOfPublication between 1996 AND 1999 and Publisher = 'Dell' and  Location = 'cordova, tennessee, usa'
+YearOfPublication between 1996 AND 1999 and Publisher = 'Dell' and  Age between 28 AND 30
+YearOfPublication between 1996 AND 1999 and Publisher = 'Dell' and  Age between 30 AND 32
+YearOfPublication between 1996 AND 1999 and Publisher = 'Dell' and  Age between 32 AND 34
+YearOfPublication between 1996 AND 1999 and Publisher = 'Pocket' and  Location = 'cordova, tennessee, usa'
+YearOfPublication between 1996 AND 1999 and Publisher = 'Pocket' and  Age between 28 AND 30
+YearOfPublication between 1996 AND 1999 and Publisher = 'Pocket' and  Age between 30 AND 32
+YearOfPublication between 1996 AND 1999 and Publisher = 'Pocket' and  Age between 32 AND 34
+YearOfPublication between 1996 AND 1999 and Location = 'cordova, tennessee, usa' and  Age between 28 AND 30
+YearOfPublication between 1996 AND 1999 and Location = 'cordova, tennessee, usa' and  Age between 30 AND 32
+YearOfPublication between 1996 AND 1999 and Location = 'cordova, tennessee, usa' and  Age between 32 AND 34
+YearOfPublication between 1999 AND 2002 and Location = 'cordova, tennessee, usa' and  Age between 30 AND 32
+YearOfPublication between 1999 AND 2002 and Location = 'cordova, tennessee, usa' and  Age between 32 AND 34
